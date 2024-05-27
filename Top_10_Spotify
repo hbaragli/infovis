@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>TOP10-spotify</title>
+</head>
+<body>
+ <div>
+  <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°1</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4q5fAtYMfcBQorgbFZhRGE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+  <div>
+      <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°2</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AX4aybSRyXHWrjg27wTFE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°3</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3HNLA3ooLBSudG98ZVUuIZ
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°4</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64FuVTgXvq2lM2T35R2lZd
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°5</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2yJMtBIyGkFmzvYj9vW4lf
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°6</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4EQDIFyn4VPMl4OWBc0EV2
+
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°7</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0iEcfSRugRGr90nGcUz1t5
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°8</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4v17MVpCUu5l2p0mSlw8PK
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°9</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sqBhuli9Um0hpwta53WpS
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+   <div>
+       <h1 style="color: #1ed760; font-family: Arial, sans-serif; text-align: center;">N°10</h1>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/161cNpUQ4izzmRb0U132On
+?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ </div>
+</body>
